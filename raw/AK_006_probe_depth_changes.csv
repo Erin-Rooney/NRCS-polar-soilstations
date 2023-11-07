@@ -1,0 +1,3 @@
+station_id,year,probe,original_depth_cm,new_depth_cm,change,type
+AK006,2009,Temp 2,25,15,-15,measured
+AK006,2009,Temp 2,15,25,15,reset
